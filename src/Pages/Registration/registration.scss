@@ -256,18 +256,18 @@ input[type="text"],
     padding: 0.6rem;
 }
 
-@media (min-width: $layout-breakpoint-medium ) and (max-width: $layout-breakpoint-midMedium) {
+// @media (min-width: $layout-breakpoint-medium ) and (max-width: $layout-breakpoint-midMedium) {
 
-    .middle {
-        width: 50% !important;
-        height: 55% !important;
+//     .middle {
+//         width: 50% !important;
+//         height: 55% !important;
 
-    }
-    .imgContainer {
+//     }
+//     .imgContainer {
 
-        left: 1.5rem !important;
-        .phoneImg {
-            height: 300px !important;
-        }
-    }
-}
+//         left: 1.5rem !important;
+//         .phoneImg {
+//             height: 300px !important;
+//         }
+//     }
+// }
