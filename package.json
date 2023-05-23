@@ -10,12 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "formik": "^2.2.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.62.1",
-    "sweetalert2": "^11.7.5",
-    "yup": "^1.1.1"
+    "react-router-dom": "^6.11.2",
+    "sass": "^1.62.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
